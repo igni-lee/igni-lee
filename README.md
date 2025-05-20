@@ -4,6 +4,7 @@
 ## 💼 **Career** 
 |기간|근무지 및 직책|
 |:---|:---|
+|2022-11 ~ 2025-05|at **[WATCHA](https://www.watcha.com)** as **Server developer**|
 |2021-11 ~ 2022-08|at **[WATCHA](https://www.watcha.com)** as **Server developer**|
 |2021-02 ~ 2021-10|at **[AIM](https://www.getaim.co)** as **Server developer**|
 |2019-01 ~ 2021-02|at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**|
